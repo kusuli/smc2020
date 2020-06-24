@@ -1,0 +1,16 @@
+{
+  "tps_coef_i": 1,
+  "tps_coef_j": 1,
+  "tps_coef_k": 1,
+  "note_on_chord": 0.1,
+  "note_out_of_scale": 20,
+  "note_out_of_chord": 40,
+  "interpretation_change_cost": 0.5,
+  "cadence_weight0": 0.0,
+  "cadence_weight1": 0.0,
+  "cadence_weight2": 0.0,
+  "cadence_weight3": 0.0,
+  "cadence_weight4": 0.0,
+  "cadence_weight5": 0.0,
+  "cadence_weight6": 0.0
+}
