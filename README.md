@@ -1,3 +1,3 @@
-# harmony_tps
+# SMC 2020
 
-under construction
+Jazz Harmony Analysis with ε-transition and Cadential Shortcut
