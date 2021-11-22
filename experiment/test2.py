@@ -363,7 +363,7 @@ degree_pattern_list = [
 
 chord_length = 9
 fork_index = 5 
-dir_path = './data/'
+dir_path = './sample_data/'
 output_file = 'output.txt'
 output_string = ''
 inst = base
