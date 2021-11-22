@@ -10,8 +10,8 @@ ext1 = Ext1('params.txt')
 ext2 = Ext2('params.txt')
 ext3 = Ext3('params.txt')
 
-song_chords, _ = base.load_music_data("./data/fly_me_to_the_moon.txt") # Fly Me to the Moon （34 chords）
-#song_chords, _ = base.load_music_data("./data/autumn_leaves.txt") # Autumn Leaves （31 chords）
+song_chords, _ = base.load_music_data("./sample_data/fly_me_to_the_moon.txt") # Fly Me to the Moon （34 chords）
+#song_chords, _ = base.load_music_data("./sample_data/autumn_leaves.txt") # Autumn Leaves （31 chords）
 
 #obj = base # original
 #obj = ext1 # +tetrads, 4 scales
